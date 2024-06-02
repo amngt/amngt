@@ -2,11 +2,11 @@
 ### Hi there 👋
 
 ## Sobre me
-Tengo un grado de diseño y creación digital y, actualmente, estoy participando en el bootcamp de Fullstack de Factoria F5
+Tengo un grado de diseño y creación digital
 
 - 🌱 Actualmente estoy aprendiendo sobre HTML y CSS
 - 📫 Mi contacto es amngt
-- ⚡ Fun fact: Estoy obligada por contrato a escribir estas líneas
+
 
 
 <div align="left">
